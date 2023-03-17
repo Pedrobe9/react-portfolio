@@ -1,4 +1,62 @@
-# Getting Started with Create React App
+# React-Portfolio
+
+## Description
+
+This project is a portfolio made using the React technology.
+
+- What was your motivation?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What problem does it solve?
+- What did you learn?
+
+- URL of the functional, deployed application: https://pedrobe9.github.io/react-portfolio/  
+= URL of the GitHub repository: https://github.com/Pedrobe9/react-portfolio 
+
+## Table of Contents (Optional)
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [License](#license)
+- [License](#license)
+
+
+## Installation
+
+Application ready to use.
+Below you will find information on how to use the Create React App.
+
+## Usage
+
+
+
+![Screeshot Home page](src/components/assets/react-portfolio-home.png)
+![Screeshot work page](src/components/assets/react-portfolio-work.png)
+![Screeshot contact page](src/components/assets/react-portfolio-contact.png)
+![Screeshot skills page](src/components/assets/react-portfolio-skills.png)
+
+## Credits
+
+Pedro Bernal
+
+
+## License
+
+MIT License.
+
+
+## Features
+
+The Application has the initial landing page or home page, marked as 'About Me' in the navigation bar. There is another page ('Work')displayng the projects I am showcasing, a page to 'Contact Me' and a final page showing the 'Skills' as a developper.
+Ways to contact me include: links to GitHub, LinkedIn, CV and a form to send me an email which will open with the email utility used by the user. There are placeholder links to Facebook and Twitter but they are not active, although I have included for future inclusion.
+
+
+
+##  GettingStarted
+(with Create React App)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

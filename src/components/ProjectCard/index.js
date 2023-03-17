@@ -1,4 +1,5 @@
 import React from "react";
+//import '../../workList.json'
 import "./style.css";
 
 //Card showing image, title, GitHub link and link of deployment
@@ -6,7 +7,7 @@ function ProjectCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.title} src={props.image} />
+        <img src={process.env.PUBLIC_URL + props.image} alt={props.title} />
       </div>
       <div className="content">
         <ul>
