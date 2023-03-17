@@ -2,12 +2,14 @@ import React from "react";
 //import '../../workList.json'
 import "./style.css";
 
-//Card showing image, title, GitHub link and link of deployment
+//Card showing image, title, GitHub link and link of deployment 
+//to display images in github pages also use 'process.env.PUBLIC_URL' (no quotes) in src (before +pros.image)
+// also, to display images in github pages: './react-portfolio' in src (before +pros.image)
 function ProjectCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img src={process.env.PUBLIC_URL + props.image} alt={props.title} />
+        <img src={'./react-portfolio' + props.image} alt={props.title} />
       </div>
       <div className="content">
         <ul>
