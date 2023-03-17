@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "Bootstrap-Portfolio",
-        "image": "/images/bootstrap-portfolio.png",
+        "image": "https://drive.google.com/file/d/17Vrjh3QMqWhADgGrFGoaqd0COvCxEpaj/view?usp=sharing",
         "description": "Portfolio developed during the Bootcamp course.",
         "githubLink": "https://github.com/Pedrobe9/Bootstrap-Portfolio",
         "link": "https://pedrobe9.github.io/Bootstrap-Portfolio/"
