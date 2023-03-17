@@ -2,12 +2,7 @@
 
 ## Description
 
-This project is a portfolio made using the React technology.
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project is a portfolio made using the React technology. The internet is a great place to showcase your skilll. This portfolio aims to show some of the work I have completed so far and the skills developped in the pocess. The development of the applications was a great opportunity to consolidate the knowledge about the use of React.
 
 - URL of the functional, deployed application: https://pedrobe9.github.io/react-portfolio/  
 = URL of the GitHub repository: https://github.com/Pedrobe9/react-portfolio 
@@ -20,8 +15,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [License](#license)
-- [License](#license)
+- [Features](#features)
+- [Starting](#starting)
 
 
 ## Installation
@@ -30,8 +25,8 @@ Application ready to use.
 Below you will find information on how to use the Create React App.
 
 ## Usage
-
-
+Application is ready to use. Use the navigation bar to move between the different sections of the portfolio. The section 'About Me@ gives you a very brief introduction to who I am. You can see examples of my work in the section 'Work'. You can contact me using the section 'Contact Me', there you have links to my GitHub account, LinkedIn and you can get access to a CV in pdf format. The links for Facebook and Twitter are not active but have been included for future inclusion. You can also send me an email using your local email, just fill the form on the page and click submit and the process will be activated. The 'Skill sections enumerates the skills aquired during training (and also working in a different field).
+Below you can see screenshots of the different pages of this project.
 
 ![Screeshot Home page](src/components/assets/react-portfolio-home.png)
 ![Screeshot work page](src/components/assets/react-portfolio-work.png)
@@ -54,9 +49,8 @@ The Application has the initial landing page or home page, marked as 'About Me' 
 Ways to contact me include: links to GitHub, LinkedIn, CV and a form to send me an email which will open with the email utility used by the user. There are placeholder links to Facebook and Twitter but they are not active, although I have included for future inclusion.
 
 
-
-##  GettingStarted
-(with Create React App)
+## Starting
+##  Getting-Started-with-Create-React-App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
