@@ -4,6 +4,7 @@
         "title": "css-snippet-cheatsheet",
         "image": "./assets/css-cheatsheet.png",
         "description": "Cheatsheet to recall syntax for CSS code.",
+        "githubLink": "https://github.com/Pedrobe9/css-snippet-cheatsheet",
         "link": "https://pedrobe9.github.io/css-snippet-cheatsheet/"
     },
     {
@@ -11,6 +12,7 @@
         "title": "Bootstrap-Portfolio",
         "image": "./assets/bootstrap-portfolio.png",
         "description": "Portfolio developed during the Bootcamp course.",
+        "githubLink": "https://github.com/Pedrobe9/Bootstrap-Portfolio",
         "link": "https://pedrobe9.github.io/Bootstrap-Portfolio/"
     },
     {
@@ -18,6 +20,7 @@
         "title": "Console-Finances",
         "image": "./assets/console-finances.png",
         "description": "Code for analyzing the financial records of a company.",
+        "githubLink": "https://github.com/Pedrobe9/web-APIs-code-quiz",
         "link": "https://pedrobe9.github.io/Console-Finances/"
     },
     {
@@ -25,6 +28,7 @@
         "title": "web-APIs-code-quiz",
         "image": "./assets/questions.png",
         "description": "Timed coding quiz with multiple-choice questions.",
+        "githubLink": "https://github.com/Pedrobe9/web-APIs-code-quiz",
         "link": "https://pedrobe9.github.io/web-APIs-code-quiz/"
     },
     {
@@ -32,6 +36,7 @@
         "title": "Weather-Dashboard",
         "image": "./assets/weather-dashboard.png",
         "description": "Weather dashboard running in the browser and featuring dynamically updated HTML and CSS.",
+        "githubLink": "https://github.com/Pedrobe9/Weather-Dashboard-Server-Side-APIs",
         "link": "https://pedrobe9.github.io/Weather-Dashboard-Server-Side-APIs/ "
     },
     {
@@ -39,6 +44,7 @@
         "title": "Financial-Indices",
         "image": "./assets/indexOne.gif",
         "description": "A hub of financial indices that could be sold to hedge funds for passive income.",
+        "githubLink": "https://github.com/Pedrobe9/Financial-Indices",
         "link": "https://rishibajaj.github.io/Financial-Indices/"
     }
 ]
