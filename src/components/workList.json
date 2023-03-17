@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "css-snippet-cheatsheet",
+        "image": "./assets/css-cheatsheet.png",
+        "description": "Cheatsheet to recall syntax for CSS code.",
+        "link": "https://pedrobe9.github.io/css-snippet-cheatsheet/"
+    },
+    {
+        "id": 2,
+        "title": "Bootstrap-Portfolio",
+        "image": "./assets/bootstrap-portfolio.png",
+        "description": "Portfolio developed during the Bootcamp course.",
+        "link": "https://pedrobe9.github.io/Bootstrap-Portfolio/"
+    },
+    {
+        "id": 3,
+        "title": "Console-Finances",
+        "image": "./assets/console-finances.png",
+        "description": "Code for analyzing the financial records of a company.",
+        "link": "https://pedrobe9.github.io/Console-Finances/"
+    },
+    {
+        "id": 4,
+        "title": "web-APIs-code-quiz",
+        "image": "./assets/questions.png",
+        "description": "Timed coding quiz with multiple-choice questions.",
+        "link": "https://pedrobe9.github.io/web-APIs-code-quiz/"
+    },
+    {
+        "id": 5,
+        "title": "Weather-Dashboard",
+        "image": "./assets/weather-dashboard.png",
+        "description": "Weather dashboard running in the browser and featuring dynamically updated HTML and CSS.",
+        "link": "https://pedrobe9.github.io/Weather-Dashboard-Server-Side-APIs/ "
+    },
+    {
+        "id": 6,
+        "title": "Financial-Indices",
+        "image": "./assets/indexOne.gif",
+        "description": "A hub of financial indices that could be sold to hedge funds for passive income.",
+        "link": "https://rishibajaj.github.io/Financial-Indices/"
+    }
+]
