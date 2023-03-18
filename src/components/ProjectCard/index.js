@@ -5,11 +5,12 @@ import "./style.css";
 //Card showing image, title, GitHub link and link of deployment 
 //to display images in github pages also use 'process.env.PUBLIC_URL' (no quotes) in src (before +pros.image)
 // also, to display images in github pages: './react-portfolio' in src (before +pros.image)
+//Previous methods failed. Now hosted on the web:
 function ProjectCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img src={'./react-portfolio' + props.image} alt={props.title} />
+        <img src={props.image} alt={props.title} />
       </div>
       <div className="content">
         <ul>

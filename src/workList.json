@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "css-snippet-cheatsheet",
-        "image": "/images/css-cheatsheet.png",
+        "image": "https://i.imgur.com/pJBLAFk.png",
         "description": "Cheatsheet to recall syntax for CSS code.",
         "githubLink": "https://github.com/Pedrobe9/css-snippet-cheatsheet",
         "link": "https://pedrobe9.github.io/css-snippet-cheatsheet/"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "Bootstrap-Portfolio",
-        "image": "https://drive.google.com/file/d/17Vrjh3QMqWhADgGrFGoaqd0COvCxEpaj/view?usp=sharing",
+        "image": "https://i.imgur.com/hbzDdST.png",
         "description": "Portfolio developed during the Bootcamp course.",
         "githubLink": "https://github.com/Pedrobe9/Bootstrap-Portfolio",
         "link": "https://pedrobe9.github.io/Bootstrap-Portfolio/"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "title": "Console-Finances",
-        "image": "/images/console-finances.png",
+        "image": "https://i.imgur.com/L9OZi4w.png",
         "description": "Code for analyzing the financial records of a company.",
         "githubLink": "https://github.com/Pedrobe9/web-APIs-code-quiz",
         "link": "https://pedrobe9.github.io/Console-Finances/"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "title": "web-APIs-code-quiz",
-        "image": "/images/questions.png",
+        "image": "https://i.imgur.com/BImLDoz.png",
         "description": "Timed coding quiz with multiple-choice questions.",
         "githubLink": "https://github.com/Pedrobe9/web-APIs-code-quiz",
         "link": "https://pedrobe9.github.io/web-APIs-code-quiz/"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "title": "Weather-Dashboard",
-        "image": "/images/weather-dashboard.png",
+        "image": "https://i.imgur.com/2cBQiGP.png",
         "description": "Weather dashboard running in the browser and featuring dynamically updated HTML and CSS.",
         "githubLink": "https://github.com/Pedrobe9/Weather-Dashboard-Server-Side-APIs",
         "link": "https://pedrobe9.github.io/Weather-Dashboard-Server-Side-APIs/ "
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "title": "Financial-Indices",
-        "image": "/images/indexOne.gif",
+        "image": "https://i.imgur.com/uc8qPJW.gifv#embed",
         "description": "A hub of financial indices that could be sold to hedge funds for passive income.",
         "githubLink": "https://github.com/Pedrobe9/Financial-Indices",
         "link": "https://rishibajaj.github.io/Financial-Indices/"
